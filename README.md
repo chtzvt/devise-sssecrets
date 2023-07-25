@@ -1,5 +1,7 @@
 # Devise::Sssecrets - Sssecrets For Devise's Friendly Token Generator
 
+[![Gem Version](https://badge.fury.io/rb/devise-sssecrets.svg)](https://badge.fury.io/rb/devise-sssecrets) [![RubyDoc](https://img.shields.io/static/v1?url=https%3A%2F%2Frubydoc.info%2Fgems%2Fdevise-sssecrets&label=RubyDoc&message=devise-sssecrets&color=informational)](https://rubydoc.info/gems/devise-sssecrets) [![Build](https://github.com/chtzvt/devise-sssecrets/actions/workflows/main.yml/badge.svg)](https://github.com/chtzvt/devise-sssecrets/actions/workflows/main.yml) [![Publish](https://github.com/chtzvt/devise-sssecrets/actions/workflows/publish.yml/badge.svg)](https://github.com/chtzvt/devise-sssecrets/actions/workflows/publish.yml)
+
 ## Purpose
 
 [Sssecrets](https://github.com/chtzvt/sssecrets) is a handy gem for generating secure tokens that are easy for static analysis tools to identify. It works great as a standalone tool, but there are cases where developers may want to integrate it with authentication frameworks like [Devise](https://github.com/heartcombo/devise). 
@@ -89,7 +91,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[chtzvt]/devise-sssecrets.
+Bug reports and pull requests are welcome on GitHub at https://github.com/chtzvt/devise-sssecrets.
 
 ## License
 
