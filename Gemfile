@@ -13,4 +13,4 @@ gem "rubocop", "~> 1.21"
 
 gem "devise", "~> 4.9"
 
-gem "sssecrets", "~> 1.0"
+gem "sssecrets", "~> 1.0.1"
